@@ -1,3 +1,11 @@
+# Existing Use of Digital Map
+
+* [Network Digital Map](https://info.support.huawei.com/info-finder/encyclopedia/en/Network+digital+map.html)
+* [Digital Map software](https://www.smartdraw.com/map/digital-map-software.htm?srsltid=AfmBOopPREzm2s3A-DMT_hzquQ2ThvwjIKw9_EK8C0QvPjQZE8DHo25U)
+* [Digital Map prodducts](https://support.digmap.com/products/citygis.htm)
+* [Digital Map & Transport](https://cop29.az/en/cop29-services/maps-and-roads)
+* [Digital Map: Digital Topographic Map](https://www.landsd.gov.hk/en/survey-mapping/mapping/multi-scale-topographic-mapping/digital-map.html)
+  
 # Existing uses of Topological Map/Topology Map
 
 * [https://ncatlab.org/nlab/show/topological+map](https://ncatlab.org/nlab/show/topological+map)
@@ -11,7 +19,7 @@
 
 # Other Alternatives
 
-* Service & Infrastructure Digital Schema
-* Service & Infrastructure Digital Map
-* Service & Infrastructure Map
-* Service & Infrastructure Mapping
+* Service & Infrastructure Digital Schema (Digital Schema, for short)
+* Service & Infrastructure Digital Map (Digital Map, for short)
+* Service & Infrastructure Map (SIMAP)
+* Service & Infrastructure Mapping (SIMAP)
