@@ -7,3 +7,5 @@
 * [Topological Map: An Efficient Tool to Compute Incrementally Topological Features ](https://link.springer.com/chapter/10.1007/11774938_1)
 * [A global topological map formed by local metric maps](https://ieeexplore.ieee.org/document/724844)
 * [A Study of the Global Topological Map Construction Algorithm Based on Grid Map Representation for Multirobot](https://ieeexplore.ieee.org/document/9861387)
+* [OXoford](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803104939207?p=emailAw8niFenT83i6&d=/10.1093/oi/authority.20110803104939207)
+* [Wikipedia](https://en.wikipedia.org/wiki/Topological_map)
