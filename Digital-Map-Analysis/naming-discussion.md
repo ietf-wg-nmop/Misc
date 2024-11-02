@@ -1,4 +1,3 @@
-
 # Existing uses of Topological Map/Topology Map
 
 * [https://ncatlab.org/nlab/show/topological+map](https://ncatlab.org/nlab/show/topological+map)
@@ -9,3 +8,10 @@
 * [A Study of the Global Topological Map Construction Algorithm Based on Grid Map Representation for Multirobot](https://ieeexplore.ieee.org/document/9861387)
 * [OXoford](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803104939207?p=emailAw8niFenT83i6&d=/10.1093/oi/authority.20110803104939207)
 * [Wikipedia](https://en.wikipedia.org/wiki/Topological_map)
+
+# Other Alternatives
+
+* Service & Infrastructure Digital Schema
+* Service & Infrastructure Digital Map
+* Service & Infrastructure Map
+* Service & Infrastructure Mapping
