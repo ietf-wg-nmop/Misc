@@ -15,7 +15,10 @@ model meets/can be augmented or profiled for SIMAP.
 o	Add a pointer to the individual assessment made so far by Italo/Aihua
 o	Re-use as much as possible structures that would ease mapping 
    with the TE topology
-3. Option 3: Use TE work as base 
+3. Option 3: Use TE work as base
+4. Option 4: Use RFC8345 for subset of use cases and TE and other existing models for other subset.
+For example: SIMAP can provide a simplified navigation capabilities for multi-layer navigation for all use cases,
+while TE can be used for traffic engineering and other modules can continue being used as currently. In this case, SIMAP can become a complimentary navigation mechanism for IP, Data Center, etc - unified view of the multi technology, multi-layered topology for multi-domain.
 
 Other suggestions can be identified during the analysis.
 
